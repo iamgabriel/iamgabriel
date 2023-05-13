@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá mundo 👋
 
-<!--
-**iamgabriel/iamgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando como Suporte Técnico de Redes em uma empresa de Telecomunicações.
+- 🌱 Linguagens de promoção que eu curto é Javascript e Python.
+- 🤔 Atualmente cursando Análise e Desenvolvimento de Sistemas, mas tenho em mente em fazer Engenharia de Software também!
+- ⚡ Back-end é mais legal.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/iamgabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgabriel&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgabriel&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="gab-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="gab-DiscordJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg">
+  <img align="center" alt="gab-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="right" alt="gab-Gif" height="200" widht="140" src="https://media.discordapp.net/attachments/499954686661492743/1106739107041910854/ezgif.com-gif-maker.gif?width=468&height=468">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
