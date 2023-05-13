@@ -19,7 +19,9 @@
   <img align="center" alt="gab-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gab-DiscordJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg">
   <img align="center" alt="gab-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="right" alt="gab-Gif" height="200" widht="140" src="https://media.discordapp.net/attachments/499954686661492743/1106739107041910854/ezgif.com-gif-maker.gif?width=468&height=468">
+  <img align="right" alt="gab-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/499954686661492743/1106744348831383703/gif_icon.gif?width=676&height=676">
 </div>
 
   ##
+  
+![Snake animation](https://github.com/iamgabriel/iamgabriel/blob/output/github-contribution-grid-snake.svg)
