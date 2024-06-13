@@ -1,7 +1,7 @@
 ### Olá mundo 👋
 
 - 🔭 Atualmente trabalhando como Suporte Técnico de Redes em uma empresa de Telecomunicações.
-- 🌱 Linguagens de promoção que eu curto é Javascript e Python.
+- 🌱 Linguagens de programação que eu curto é Javascript, Python e Java.
 - 🤔 Atualmente cursando Análise e Desenvolvimento de Sistemas, mas tenho em mente em fazer Engenharia de Software também!
 - ⚡ Back-end é mais legal.
 
